@@ -18,7 +18,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://restro-app-azfar.vercel.app" 
+          "value": "https://restro-app-nit.vercel.app/" 
         },
         {
           "key": "Access-Control-Allow-Methods",
